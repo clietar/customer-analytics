@@ -1,11 +1,4 @@
 
-
-#POKEMON GO CASE - CODE FILE - TEAM 15
-#Charles LIETAR  - Omar EL HAJJAR  - Aly CHOUR - Pauline CHOMEL DE JARNIEU - Charlotte NAEPELS 
-#57488 - 74098 - 58905 - 57285 - 57554
-
-
-
 customerdata = read.csv("customerdata.csv")
 fallfintrx = read.csv("fallfintrx.csv")
 fallsesstrx = read.csv("fallsesstrx.csv")
